@@ -1,6 +1,5 @@
 import streamlit as st
 import pickle
-from sklearn.datasets import load_booking
 
 booking = load_booking()
 
